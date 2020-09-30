@@ -1,0 +1,16 @@
+PODS:
+  - SFPodTest (0.1.0)
+
+DEPENDENCIES:
+  - SFPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  SFPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SFPodTest: f61c6284bb769aba7c131a17d091edecc001c005
+
+PODFILE CHECKSUM: 47c5489f1b5fecbef0d5e491e5f1390cceec9251
+
+COCOAPODS: 1.9.3
